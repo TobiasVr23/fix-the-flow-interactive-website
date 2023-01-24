@@ -237,7 +237,23 @@ input{
   border: 1px solid  #333467;
   border-radius: 5px;
   margin: 0;
-  
+}
+
+.inputlabel button{
+  margin-top: 6em;
+  padding: 0;
+  border: 1px solid #333568;
+  background: none;
+  border-radius: 5px;
+  color: #333568;
+  font-family:'Arial';
+  font-size: large;
+  font-weight: 700;
+}
+
+.inputlabel button:hover{
+  color: black;
+  font-size:1.1em;
 }
 
 .antwoordlijst.wel-relevant {
